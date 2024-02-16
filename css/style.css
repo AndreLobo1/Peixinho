@@ -1,0 +1,16 @@
+body {
+    /* Define o modelo de layout do corpo para flexível */
+    display: flex;
+
+    /* Centraliza os itens flexíveis horizontalmente */
+    justify-content: center;
+
+    /* Centraliza os itens flexíveis verticalmente */
+    align-items: center;
+
+    /* Define a altura do corpo para 100% da altura da janela de visualização */
+    height: 100vh;
+
+    /* Remove as margens padrão do corpo */
+    margin: 0;
+}
